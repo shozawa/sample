@@ -1,0 +1,24 @@
+
+
+Started GET "/" for 127.0.0.1 at 2016-08-07 13:35:58 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendered vendor/bundle/ruby/2.3.0/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (5.4ms)
+Completed 200 OK in 44ms (Views: 32.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-08-07 17:16:03 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendered vendor/bundle/ruby/2.3.0/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (6.3ms)
+Completed 200 OK in 44ms (Views: 32.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-08-07 17:16:05 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendered vendor/bundle/ruby/2.3.0/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (0.0ms)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-08-07 17:25:43 +0900
+Processing by StaticPagesController#home as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 19ms (Views: 10.5ms | ActiveRecord: 0.0ms)
